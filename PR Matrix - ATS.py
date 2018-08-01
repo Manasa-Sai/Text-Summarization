@@ -32,7 +32,7 @@ import networkx as nx
 
 
 # Open and Read Text Document
-	with open("/Users/saimanasanandiwada/Desktop/NLPProject/Sample1.txt", "r") as f1:
+	with open("/Users/****************************.txt", "r") as f1:
 		document = f1.read()
 
 
@@ -79,7 +79,7 @@ import networkx as nx
 	print summarysents
 	
 	
-	with open("/Users/saimanasanandiwada/Desktop/Summary2.txt", "w") as fout:
+	with open("/Users/***************************************.txt", "w") as fout:
 		for sents in summarysents:
 			print >> fout, sents
 	fout.close()
