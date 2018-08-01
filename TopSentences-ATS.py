@@ -24,7 +24,7 @@ from nltk import word_tokenize, sent_tokenize, pos_tag
 
 
 # Open and Read Sample Text
-	with open("/Users/saimanasanandiwada/Desktop/NLPProject/Sample1.txt", "r") as f1:
+	with open("/Users/**********************.txt", "r") as f1:
 		text = f1.read()
 
 
@@ -77,7 +77,7 @@ top_30sents = popular_sentences[:30]
 
 
 
-with open("/Users/saimanasanandiwada/Desktop/NLPProject/Summary1.txt", "w") as fout:
+with open("/Users/*******************************.txt", "w") as fout:
 	for sent in top_30sents:
 		print >> fout, sent
 fout.close()
