@@ -13,7 +13,7 @@ This code was developed and used as a part of Automatic Text Summarization Proje
 
 
 """
-# Author: Sai Manasa Nandiwada <saimanasa9@gmail.com>
+# Author: Sai Manasa N
 # Modified Date: 05-11-2017
 # Created Date: 03-15-2017
 
