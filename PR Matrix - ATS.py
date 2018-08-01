@@ -16,7 +16,7 @@ This code was developed and used as a part of Automatic Text Summarization Proje
 
 
 
-# Author: Sai Manasa Nandiwada <saimanasa9@gmail.com>
+# Author: Sai Manasa Nandiwada 
 # Last Modified Date: 05-9-2017
 # Created Date: 01-24-2017
 
